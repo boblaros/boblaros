@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Georgii!
+- 👀 I’m interested in invesigating data
+- 🌱 I’m currently learning Data Analytics and Data Science
+- 💞️ I’m looking to collaborate on AI projects
+- 📫 How to reach me: georgii.kutivadze@gmail.com
