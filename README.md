@@ -1,11 +1,12 @@
-# Hi, I'm George
+  # Hi, I'm Georgii
 
-Applied ML engineer from Moscow.
+Applied ML engineer from Moscow (now based in Italy).
 
 **Highlights**
-- Stats Under the Stars finalist (see the "Stats Under Stars" repo)
-- Top 397 in Kaggle Natural Language Processing with Disaster Tweets
-
+- MSc in Data Science (UCSC Milan)
+- Finalist — Italian National Statistics Hackathon (see the "Stats Under Stars" repo)
+- Top 397 in Kaggle NLP Competition (Natural Language Processing with Disaster Tweets)
+  
 **Stack**: Python, PyTorch, Scikit-learn, SQL
 
-**Contact**: Telegram [@boblaros](https://t.me/boblaros) · george@example.com · Kaggle [@boblaros](https://www.kaggle.com/boblaros)
+**Contact**: georgii.kutivadz@gmail.com · Kaggle [@boblaros](https://www.kaggle.com/georgiikutivadze)
