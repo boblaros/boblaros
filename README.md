@@ -1,4 +1,4 @@
-👋 Hi, I'm Georgii
+👋 **Hi, I'm Georgii!**
 
 Applied ML engineer from Moscow (now based in Italy).
 
